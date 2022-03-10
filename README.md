@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iavellaneda
 - 👀 I’m interested in software, music, tech stuff
-- 🌱 I’m currently learning Kubernetes, ReactJS
+- 🌱 I’m currently learning AsyncAPI, Kafka, Azure. Event oriented architecture
 
 <!---
 iavellaneda/iavellaneda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
